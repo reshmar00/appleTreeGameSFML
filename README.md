@@ -30,7 +30,7 @@ For SFML installation, you can follow the instructions on the [SFML official web
 1. **Clone the repository:**
 
    ```sh
-   git clone <your-repo-url>
+   git clone https://github.com/reshmar00/appleTreeGameSFML.git
    cd appletreeGame
 
 2. **Create a build directory:**
